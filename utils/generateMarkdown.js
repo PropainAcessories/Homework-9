@@ -24,9 +24,9 @@ function generateMarkdown(answers) {
   🐔${answers.usage}
 
   ## License
-    ![badge](https://img.shields.io/badge/license-${answers.license}-brightgreen)
-    <br />
-    This application is covered by the ${answers.license} license.
+  ![badge](https://img.shields.io/badge/license-${answers.license}-brightgreen)
+  <br/>
+  🐔This application is covered by the ${answers.license} license.
   
   ##Contributors
   🐔${answers.contributors}
