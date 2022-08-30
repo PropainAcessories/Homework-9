@@ -38,8 +38,8 @@
   <br/>
   Email me any support questions: hhC3H8@gmail.com<br/>
   
-  ## Short GIF demonstrating beginning of Application.
-![](Untitled_%20Aug%2030,%202022%202_44%20PM.gif)
+  ## GIF demonstrating Application.
+  ![](Untitled_%20Aug%2030,%202022%202_53%20PM.gif)
 
 ## Link to the demonstration video (google-drive)
 https://drive.google.com/file/d/188zGcogu-qd_2uVsxMC3TuFih7xVSEFC/view
