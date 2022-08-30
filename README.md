@@ -40,3 +40,6 @@
   
   ## Short GIF demonstrating beginning of Application.
 ![](Untitled_%20Aug%2030,%202022%202_44%20PM.gif)
+
+## Link to the demonstration video (google-drive)
+https://drive.google.com/file/d/188zGcogu-qd_2uVsxMC3TuFih7xVSEFC/view
