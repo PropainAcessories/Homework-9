@@ -43,3 +43,6 @@
 
 ## Link to the demonstration video (google-drive)
 https://drive.google.com/file/d/188zGcogu-qd_2uVsxMC3TuFih7xVSEFC/view
+
+## Watch Link to walkthrough video
+https://watch.screencastify.com/v/EE2XHp8yEkIyKLk94Ucj
