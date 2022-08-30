@@ -38,7 +38,7 @@ function generateMarkdown(answers) {
   🐔${answers.support}<br/>
   🐔My Github: [${answers.github}](https://github.com/${answers.username})<br/>
   <br/>
-  Email me any support questions:${answers.email}<br/>
+  Email me any support questions: ${answers.email}<br/>
 `;
 }
 

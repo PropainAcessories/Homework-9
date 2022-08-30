@@ -1,46 +1,39 @@
 
-  <h1 align="center"> test</h1>
+  <h1 align="center"> Markdown generator</h1>
 
-  ![badge](https://img.shields.io/badge/license-Academic-brightgreen)<br />
+  ![badge](https://img.shields.io/badge/license-Open-brightgreen)<br />
 
   ## Description
-  🐔test
+  🐔it generates markdown files
 
   ## Table of contents
   🐔[Description](#description)
-  <br/>
   🐔[Implementation](#implementation)
-  <br/>
   🐔[Usage](#usage)
-  <br/>
   🐔[License](#license)
-  <br/>
   🐔[Contributors](#contributors)
-  <br/>
   🐔[Tests](#tests)
-  <br/>
   🐔[Support](#support)
-  <br/>
 
   ## Implementation
-  🐔test
+  🐔Command line
 
   ## Usage
-  🐔test
+  🐔To generate markdown files for projects
 
   ## License
-  ![badge](https://img.shields.io/badge/license-Academic-brightgreen)
+  ![badge](https://img.shields.io/badge/license-Open-brightgreen)
   <br/>
-  🐔This application is covered by the Academic license.
+  🐔This application is covered by the Open license.
   
   ## Contributors
-  🐔test
+  🐔Henry Howe
 
   ## Tests
-  🐔test
+  🐔Yes there is a result folder and linked video
 
   ## Support
-  🐔test<br/>
-  🐔My Github: [test](https://github.com/undefined)<br/>
+  🐔Contact me in case of any issues<br/>
+  🐔My Github: [PropainAcessories](https://github.com/undefined)<br/>
   <br/>
-  Email me any support questions:test<br/>
+  Email me any support questions: hhC3H8@gmail.com<br/>
