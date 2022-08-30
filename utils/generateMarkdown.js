@@ -28,7 +28,7 @@ function generateMarkdown(answers) {
   <br/>
   🐔This application is covered by the ${answers.license} license.
   
-  ##Contributors
+  ## Contributors
   🐔${answers.contributors}
 
   ## Tests
