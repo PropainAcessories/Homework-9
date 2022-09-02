@@ -1,10 +1,10 @@
 
-  <h1 align="center"> Markdown generator</h1>
+  <h1 align="center"> README Generator</h1>
 
   ![badge](https://img.shields.io/badge/license-Open-brightgreen)<br />
 
   ## Description
-  🐔it generates markdown files
+  🐔it generates professional readmes with chicken emoji bulleting
 
   ## Table of contents
   🐔[Description](#description)
@@ -16,10 +16,10 @@
   🐔[Support](#support)
 
   ## Implementation
-  🐔Command line
+  🐔via command prompt
 
   ## Usage
-  🐔To generate markdown files for projects
+  🐔making markdown files
 
   ## License
   ![badge](https://img.shields.io/badge/license-Open-brightgreen)
@@ -30,10 +30,10 @@
   🐔Henry Howe
 
   ## Tests
-  🐔Yes there is a result folder and linked video
+  🐔No 
 
   ## Support
-  🐔Contact me in case of any issues<br/>
-  🐔My Github: [PropainAcessories](https://github.com/undefined)<br/>
+  🐔contact me in case of issue<br/>
+  🐔My Github: [Propain Acessories](https://github.com/undefined)<br/>
   <br/>
-  Email me any support questions: hhC3H8@gmail.com<br/>
+  Email me any support questions: hhc3h8@gmail.com<br/>
